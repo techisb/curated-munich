@@ -1,0 +1,10 @@
+- name: 18. Linux-Infotag Augsburg
+  date: "2019-04-06"
+  time: "10:00"
+  url: https://www.luga.de/Aktionen/LIT-2019/
+  organizer: Linux User Group Augsburg
+  venue:
+    name: Hochschule Augsburg
+    address: Fakultät für Informatik, Friedbergerstr. 2, Augsburg
+    lat: 48.358196
+    lon: 10.90658
