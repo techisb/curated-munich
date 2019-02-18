@@ -1,6 +1,7 @@
 - name: 18. Linux-Infotag Augsburg
   date: "2019-04-06"
-  time: "10:00"
+  time: "09:30"
+  endtime: "17:00"
   url: https://www.luga.de/Aktionen/LIT-2019/
   organizer: Linux User Group Augsburg
   venue:
