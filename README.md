@@ -1,2 +1,2 @@
 # curated
-Curated events for https://www.dirkgomez.de/techism.de
+Curated events for https://www.dirkgomez.de/techism.de/
